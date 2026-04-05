@@ -1,0 +1,44 @@
+
+> @figma/my-make-file@0.0.1 dev
+> vite --host 127.0.0.1 --port 4173
+
+Port 4173 is in use, trying another one...
+
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m545[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m4174[22m/[39m
+[2m3:49:05 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:49:05 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:49:09 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:49:10 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:49:12 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:49:12 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:49:14 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:49:14 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:49:15 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:49:15 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:50:03 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:50:03 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:50:03 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:50:03 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:50:31 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:50:31 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:50:34 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:50:34 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:50:34 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:50:34 am[22m [36m[1m[vite][22m[39m server restarted.
+m [36m[1m[vite][22m[39m server restarted.
+[2m3:49:14 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:49:14 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:49:15 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:49:15 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:50:03 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:50:03 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:50:03 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:50:03 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:50:31 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:50:31 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:50:34 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:50:34 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m3:50:34 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m3:50:34 am[22m [36m[1m[vite][22m[39m server restarted.
